@@ -25,3 +25,5 @@ HINT: For those who dont have a thesis topic yet, you can actually develop a the
 I  dont mind you use A.I. tools with this assignment, but if you do please include your prompts in the submission.
 
 ##
+
+@all Deadline for TTE will be moved to March 9, 2025 (Sunday) at 11:59 PM.
